@@ -70,7 +70,7 @@ st.markdown(f"""
     border: 1px solid #333;
 ">
     <h1 style="color: white; margin: 0; font-size: 1.8rem;">
-        {greeting}, Adriana
+        {greeting}
     </h1>
     <p style="color: #aaa; margin: 5px 0 0 0; font-size: 1rem;">
         Use this tool to detect and understand cyberbullying content. 
